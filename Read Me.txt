@@ -1,0 +1,2 @@
+This is a Reaction Tester Game.
+Hit the shapes and check your reaction time.
